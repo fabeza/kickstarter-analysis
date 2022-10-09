@@ -9,7 +9,7 @@ The data we gathered from (source) shows that crowdfunding campaigns with an ave
 ---
 Additionally, our analysis shows that succcessful campaigns had a laucnh date between the months of May and August. 
 ---
-![US Outcomes based on launch date line chart](US Outcomes based on launch date line chart.png)
+![US Outcomes based on launch date line chart](US Outcomes based on launch date line chart.png](https://github.com/fabeza/kickstarter-analysis/blob/e664b753475572a8ccbcd5f999a393832e83f710/US%20Outcomes%20based%20on%20launch%20date%20line%20chart.png)
 ---
 Based on these findings, we are pleased to share the following recommendations for a successful crowfunding campaign for "Fever":
 * Lower the initial goal of $10,000 to $5,000-$7,000.
