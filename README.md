@@ -5,11 +5,11 @@ Our team has analyzed a dataset of 4,115 crowdfunding campaigns in various enter
 ---
 The data we gathered from (source) shows that crowdfunding campaigns with an average goal of $5,049 were successful, while failed campaigns had an average of $10,554. 
 ---
-![US average goal and pledge](path/to/US average goal and pledge.png)
+![US average goal and pledge](US average goal and pledge.png)
 ---
 Additionally, our analysis shows that succcessful campaigns had a laucnh date between the months of May and August. 
 ---
-![US Outcomes based on launch date line chart](path/to/US Outcomes based on launch date line chart.png)
+![US Outcomes based on launch date line chart](US Outcomes based on launch date line chart.png)
 ---
 Based on these findings, we are pleased to share the following recommendations for a successful crowfunding campaign for "Fever":
 * Lower the initial goal of $10,000 to $5,000-$7,000.
